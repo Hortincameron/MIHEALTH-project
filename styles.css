@@ -1,0 +1,42 @@
+.topbar{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    padding-bottom:20px;
+}
+.menu-options{
+    display:flex;
+    flex-direction:row;
+}
+.option{
+    padding-right:40px;
+}
+.mihealth-logo{
+    padding-left:30px;
+}
+.body{
+    background-color:#e1e1e1;
+    height:580px;
+    display:flex;
+    flex-direction:row;
+}
+.be-healthy{
+
+}
+.body-text{
+
+}
+.text-area{
+    width:40vw;
+}
+.images{
+    display:flex;
+    flex-direction:row;
+}
+.image-container img{
+    width: 20vw;
+    padding:2px;
+    height: 500px;
+    display: block;    
+}
+
